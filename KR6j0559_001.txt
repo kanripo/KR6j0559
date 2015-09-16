@@ -1,25 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:46.429722
+#+DATE: 2015-08-30 20:34:46.906614
 #+TITLE: 佛說呪目經
 #+PROPERTY: CBETA_ID T21n1328
 #+PROPERTY: ID KR6j0559
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1328
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6j0559_T_000-0491b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0559_T_001-0491b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1328¶
-
- 佛說呪目經¶
+No. 1328¶
+佛說呪目經東晉西域三藏竺曇無蘭譯¶
 ¶
 
-頺[敲-高+口]敷般[敲-高+口]敷　頞吒般[敲-高+口]敷　鳩離敷¶
-　鳩離比敷　鳩羅鳩𧁢比敷　沙離莎𧁢波¶
+頹[敲-高+口]敷般[敲-高+口]敷　頞吒般[敲-高+口]敷　鳩離敷¶
+　鳩離比敷　鳩羅鳩[卄/(日*鳥)]比敷　沙離莎[卄/(日*鳥)]波¶
 提敷　伊離敷　伊羅移敷　伊臘鼈敷
 
 若¶
-目痛呪七過即愈。¶
+目痛呪七遍即愈。¶
 佛說呪目經
